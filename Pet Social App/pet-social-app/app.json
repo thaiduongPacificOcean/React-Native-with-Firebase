@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "pet-social-app",
+    "slug": "pet-social-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.thaibinhduong.petsocialapp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff",
+        "googleMapsApiKey": "AIzaSyBRj-aXUQk6DlL8vjQ8xT-CjWKqnB6RKTY"
+      },
+      "permissions": ["ACCESS_FINE_LOCATION", "ACCESS_COARSE_LOCATION"],
+      "package": "com.thaibinhduong.petsocialapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b70242bd-ec1f-4efc-b274-fd522791e1c6"
+      }
+    },
+    "scheme": "pet-social-app"
+  }
+}
