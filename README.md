@@ -1,4 +1,3 @@
-# SOCIAL NETWORK MOBILE APPLICATION
 ## Contact 
 Email: thaibinhduong56390@gmail.com
 ## Overview
