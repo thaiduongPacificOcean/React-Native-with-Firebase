@@ -2,7 +2,12 @@
 Email: thaibinhduong56390@gmail.com
 ## Overview
 Build a mobile application that runs on the platform using Javascript, React Native, Firebase Services 
-## Some Screen 
+## Chat App UI Screen 
+
+![Frame 4](https://github.com/user-attachments/assets/b7c9bf46-9920-4ff0-8b03-e5a2be4da610)
+
+
+## Social App UI Screen 
 
 ![Frame 2](https://github.com/user-attachments/assets/2db0ff60-8e60-4d97-a31e-8385a4a6db1c)
 
